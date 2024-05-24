@@ -1,51 +1,104 @@
-<h1>JWipe - Active Directory</h1>
+<h1> Aiswarya's Portfolio</h1>
+<img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio" style="background: white; color: blue; width: 100%;" alt="Welcome Banner"/>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h2>About Me</h2>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+Hello! I'm <span style="color: #007acc;"><b>Aiswarya C K</b></span>, a passionate data enthusiast with experience in Python programming, machine learning, data visualization, and database management. This portfolio showcases my projects across various domains, including Python, Machine Learning, Power BI, Tableau, and SQL.
+</div>
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+
+<span style="color: #ff5733;"><h3> Projects Overview </h3></span>
+
+<h4><span style="color: #1e90ff;">🐍 Python Projects</span></h4>
+  <div style="padding: 10px; background-color: #e8f4fc; border-left: 5px solid #1e90ff; margin-bottom: 10px;">
+    <h5>Project Name 1</h5>
+    <ul>
+     <h6> Description: A brief description of what the project is about.</h6>
+      <li><b>Key Features</b>:
+    <ul>
+      <li>Feature 1</li>
+      <li>Feature 2</li>
+    </ul>
+    </li>
+    <li><b>Technologies Used</b>: <code>Python</code>, <code>Library1</code>, <code>Library2</code></li>
+    <li><b>Repository Link</b>: <a href="#">Project Repository</a></li>
+  </ul>
+</div>
+
+<h4><span style="color: #1e90ff;">🤖 Machine Learning Projects</span></h4>
+ <div style="padding: 10px; background-color: #e8f4fc; border-left: 5px solid #1e90ff; margin-bottom: 10px;">
+  <h5>Project Name 1</h5>
+  <ul>
+    <h6>Description: A brief description of what the project is about.</h6>
+    <li><b>Key Features</b>:
+      <ul>
+        <li>Feature 1</li>
+        <li>Feature 2</li>
+      </ul>
+    </li>
+    <li><b>Technologies Used</b>: <code>Python</code>, <code>Library1</code>, <code>Library2</code></li>
+    <li><b>Repository Link</b>: <a href="#">Project Repository</a></li>
+  </ul>
+</div>
+
+<h4><span style="color: #1e90ff;">📊 Power BI Dashboards</span></h4>
+<div style="padding: 10px; background-color: #e8f4fc; border-left: 5px solid #1e90ff; margin-bottom: 10px;">
+  <h5>Dashboard Name 1</h5>
+  <ul>
+    <h6>Description: A brief description of what the dashboard visualizes.</h6>
+    <li><b>Key Features</b>:
+      <ul>
+        <li>Feature 1</li>
+        <li>Feature 2</li>
+      </ul>
+    </li>
+    <li><b>Technologies Used</b>: <code>Power BI</code>, <code>Data Source1</code></li>
+    <li><b>Repository Link</b>: <a href="#">Dashboard Repository</a></li>
+  </ul>
+</div>
+
+<h4><span style="color: #1e90ff;">📈 Tableau Dashboards</span></h4>
+<div style="padding: 10px; background-color: #e8f4fc; border-left: 5px solid #1e90ff; margin-bottom: 10px;">
+  <h5>Dashboard Name 1</h5>
+  <ul>
+    <h6>Description: A brief description of what the dashboard visualizes.</h6>
+    <li><b>Key Features</b>:
+      <ul>
+        <li>Feature 1</li>
+        <li>Feature 2</li>
+      </ul>
+    </li>
+    <li><b>Technologies Used</b>: <code>Tableau</code>, <code>Data Source1</code></li>
+    <li><b>Repository Link</b>: <a href="#">Dashboard Repository</a></li>
+  </ul>
+</div>
+
+<h4><span style="color: #1e90ff;">🗄️ SQL Projects</span></h4>
+<div style="padding: 10px; background-color: #e8f4fc; border-left: 5px solid #1e90ff; margin-bottom: 10px;">
+  <h5>Project Name 1</h5>
+  <ul>
+    <h6>Description: A brief description of the project and its objectives.</h6>
+    <li><b>Key Features</b>:
+      <ul>
+        <li>Feature 1</li>
+        <li>Feature 2</li>
+      </ul>
+    </li>
+    <li><b>Technologies Used</b>: <code>SQL</code>, <code>Database1</code></li>
+    <li><b>Repository Link</b>: <a href="#">Project Repository</a></li>
+  </ul>
+</div>
 
 
-<h2>Languages and Utilities Used</h2>
+<span style="color: #ff5733;"><h3>📫 Contact</h3></span>
+  <h6>Mailto: aiswaryakcck@gmail.com</h6>
+  <h6>LinkedIn: https://www.linkedin.com/in/aiswarya-c-k </h6>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+Thank you for visiting my portfolio!
+---
 
-<h2>Environments Used </h2>
+![Profile views](https://gpvc.arturio.dev/yourusername)
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
@@ -56,3 +109,5 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+
+
