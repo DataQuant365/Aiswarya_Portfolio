@@ -23,7 +23,7 @@ Hello! I'm <span style="color: #007acc;"><b>Aiswarya C K</b></span>, a passionat
     </ul>
     </li>
     <li><b>Technologies Used</b>: <code>Python</code>, <code>Library1</code>, <code>Library2</code></li>
-    <li><b>Repository Link</b>: <a href="#"><h6>https://github.com/DataQuant365/Python-Projects/blob/dcea1f5fe45df93393a11a2d9bd53ca4d9743625/Credit%20card%20fraud%20detection.ipynb</h6></a></li>
+    <li><b>Repository Link</b>: <a href="#"><h6>Credit card fraud detection.ipynb</h6></a></li>
   </ul>
 </div>
 
