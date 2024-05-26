@@ -27,22 +27,6 @@ Hello! I'm <span style="color: #007acc;"><b>Aiswarya C K</b></span>, a passionat
   </ul>
 </div>
 
-<h4><span style="color: #1e90ff;">🤖 Machine Learning Projects</span></h4>
- <div style="padding: 10px; background-color: #e8f4fc; border-left: 5px solid #1e90ff; margin-bottom: 10px;">
-  <h5>Project Name 1</h5>
-  <ul>
-    <h6>Description: A brief description of what the project is about.</h6>
-    <li><b>Key Features</b>:
-      <ul>
-        <li>Feature 1</li>
-        <li>Feature 2</li>
-      </ul>
-    </li>
-    <li><b>Technologies Used</b>: <code>Python</code>, <code>Library1</code>, <code>Library2</code></li>
-    <li><b>Repository Link</b>: <a href="#">Project Repository</a></li>
-  </ul>
-</div>
-
 <h4><span style="color: #1e90ff;">📊 Power BI Dashboards</span></h4>
 <div style="padding: 10px; background-color: #e8f4fc; border-left: 5px solid #1e90ff; margin-bottom: 10px;">
   <h5>Dashboard Name 1</h5>
