@@ -38,7 +38,7 @@ Hello! I'm <span style="color: #007acc;"><b>Aiswarya C K</b></span>, a passionat
         <li>Feature 2</li>
       </ul>
     </li>
-    <li><b>Technologies Used</b>: <code>Power BI</code>, <code>Data Source1</code></li>
+    <li><b>Technologies Used</b>: <code>Power BI</code>
     <li><b>Repository Link</b>: <a href="#">Dashboard Repository</a></li>
   </ul>
 </div>
