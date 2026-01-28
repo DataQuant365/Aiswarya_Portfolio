@@ -56,7 +56,7 @@ Hello! I'm <span style="color: #007acc;"><b>Aiswarya C K</b></span>, a passionat
       </ul>
     </li>
     <li><b>Technologies Used</b>: <code>Tableau</code>, <code>Data Source1</code></li>
-    <li><b>Repository Link</b>: <a href="#">Dashboard Repository</a></li>
+    <li><b>[Repository Link](https://github.com/DataQuant365/PowerBI-Projects/blob/main/product_performance_Analysis/4table.pbix)</b>: <a href="#">Dashboard Repository</a></li>
   </ul>
 </div>
 
